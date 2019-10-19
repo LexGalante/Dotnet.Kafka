@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/Dotnet.Kafka
+/src/Dotnet.Kafka.Consumer/obj
+/src/Dotnet.Kafka.Producer/obj
